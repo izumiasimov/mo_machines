@@ -1,0 +1,10 @@
+tile.mo_machines.cond_furnace.name=Conductance Furnace
+tile.mo_machines.chromium_ore.name=Chromite Ore
+tile.mo_machines.monazite_ore.name=Monazite Ore
+
+item.mo_machines.chromium_ingot.name=Chromium Ingot
+item.mo_machines.monazite_ingot.name=Monazite Mix-Metal Ingot
+item.mo_machines.monazite_dust.name=Monazite Dust
+item.mo_machines.mortarpestle.name=Mortar and Pestle
+
+itemGroup.mo_machines=Mo' Machines

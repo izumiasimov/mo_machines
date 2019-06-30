@@ -1,0 +1,26 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube",
+    "textures": {
+      "north": "mo_machines:blocks/cond_furnace/front",
+      "south": "mo_machines:blocks/cond_furnace/side",
+      "west": "mo_machines:blocks/cond_furnace/side",
+      "east": "mo_machines:blocks/cond_furnace/side",
+      "up": "mo_machines:blocks/cond_furnace/top",
+      "down": "mo_machines:blocks/cond_furnace/bottom"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing":{
+      "north": {},
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90},
+      "up": {"x": -90},
+      "down": {"x": 90}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mo_machines",
+  "name": "Mo' Machines",
+  "description": "More intricate devices, generators and industries! Expand your corporate technological utopia (or dystopia) with new ores, contraptions and gameplay mechanics.",
+  "version": "0.0.1",
+  "credits": "Shoutouts to Simpleflips",
+  "logoFile": "",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["izumiasimov"],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]
