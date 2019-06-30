@@ -1,2 +1,2 @@
 # mo_machines
-An in-dev modification for Minecraft to add new and interesting Redstone Flux-powered machinery.
+An expansion for your industrialised Minecraft playthrough! New Ores, Materials, Devices, Generators, Mobs and Dimensions!
