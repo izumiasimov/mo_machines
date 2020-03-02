@@ -1,2 +1,2 @@
 # mo_machines
-An expansion for your industrialised Minecraft playthrough! New Ores, Materials, Devices, Generators, Mobs and Dimensions!
+Currently shelved tech mod for Minecraft. May pick this up at a future date.
